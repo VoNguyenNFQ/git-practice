@@ -1,14 +1,14 @@
 <?php
 
 $list_person_in_charge = [
-    "Mai-Nguyen",
-    "Thanh-Pham",
-    "Vo-Nguyen",
-    "Kieu-Anh",
-    "Minh-Khue",
-    "Minh-Nguyet",
-    "Lan-Anh",
-    "Tinh-Thanh",
+    "MAI-NGUYEN",
+    "THANH-PHAM",
+    "VO-NGUYEN",
+    "KIEU-ANH",
+    "MINH-KHUE",
+    "MINH-NGUYET",
+    "LAN-ANH",
+    "TINH-THANH",
 ];
 
 shuffle($list_person_in_charge);
